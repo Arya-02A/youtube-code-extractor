@@ -94,6 +94,20 @@ This extension is different:
 
 ---
 
+## 🧠 Development Philosophy
+
+This project was **vibe-coded** — built iteratively by following intuition, rapid experimentation, and continuous refinement rather than a rigid upfront specification.
+
+The focus was on:
+- Solving a real developer pain point
+- Shipping a working MVP quickly
+- Improving the product through hands-on testing and iteration
+- Making pragmatic engineering decisions (e.g., choosing an OCR API over local OCR for reliability)
+
+Vibe coding here does **not** mean careless coding — it means building with momentum, learning through implementation, and refining the solution based on real usage and feedback.
+
+---
+
 ## Developer 😃
 
 - Arya Madiwale
